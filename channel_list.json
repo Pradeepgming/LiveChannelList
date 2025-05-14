@@ -1,14 +1,32 @@
 [
   {
     "title": "Aaj Tak",
-    "url": "https://www.youtube.com/watch?v=HqT7FdvH3mA"
+    "url": "https://www.youtube.com/watch?v=HqT7FdvH3mA",
+    "category": "news",
+    "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/aajtak_logo.png"
   },
   {
     "title": "NDTV India",
-    "url": "https://www.youtube.com/watch?v=Wy4vMuc3nZs"
+    "url": "https://www.youtube.com/watch?v=Wy4vMuc3nZs",
+    "category": "news",
+    "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/ndtv_logo.png"
   },
   {
     "title": "Republic Bharat",
-    "url": "https://www.youtube.com/watch?v=0T1qP4Y_6Dg"
+    "url": "https://www.youtube.com/watch?v=0T1qP4Y_6Dg",
+    "category": "news",
+    "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/republic_logo.png"
+  },
+  {
+    "title": "Stitching1",
+    "url": "https://www.youtube.com/watch?v=i4gkrJ_Xptg",
+    "category": "woman",
+    "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/stitching_logo.png"
+  },
+  {
+    "title": "Golmal 3",
+    "url": "https://www.youtube.com/watch?v=XaXKh-s9zws",
+    "category": "entertainment",
+    "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/golmal_logo.png"
   }
 ]
