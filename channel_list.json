@@ -1,6 +1,6 @@
 {
   "channels": [
-    // News categories
+
   {
     "title": "Aaj Tak",
     "url": "https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8",
@@ -61,7 +61,7 @@
     "category": "news",
     "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/youtube_logo.png"
   },
-    // Woman categories
+
   {
     "title": "Stitching1",
     "url": "https://www.youtube.com/watch?v=i4gkrJ_Xptg",
@@ -86,7 +86,7 @@
     "category": "woman",
     "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/youtube_logo.png"
   },
-// Kids categories
+
    {
     "title": "Kid1",
     "url": "https://www.youtube.com/watch?v=A-CwoA0WdCw",
@@ -165,7 +165,7 @@
     "category": "kids",
     "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/kidsyoutube.png"
   }, 
-// entertainment categories
+
   {
     "title": "Golmal 3",
     "url": "https://www.youtube.com/watch?v=XaXKh-s9zws",
@@ -194,7 +194,7 @@
     "title": "Baby",
     "url": "https://www.youtube.com/watch?v=ZrkcXuVlf4U",
     "category": "entertainment",
-    "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/youtube_logo.png" 
+    "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/youtube_logo.png"
  },
  {
     "title": "Hera Pheri",
@@ -244,7 +244,7 @@
     "category": "entertainment",
     "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/youtube_logo.png"
   },
-// Music categories
+
      {
     "title": "Old is Gold",
     "url": "https://www.youtube.com/watch?v=sCIiVN0zIGE",
@@ -269,7 +269,7 @@
     "category": "music",
     "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/youtube_logo.png"
   },
-// Devotional categories
+
 {
     "title": "Live Bhagti",
     "url": "https://www.youtube.com/watch?v=mgJ7oZC8sqA",
@@ -293,9 +293,8 @@
     "url": "https://www.youtube.com/watch?v=e2uWSGI_8BU",
     "category": "devotional",
     "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/youtube_logo.png"
-  },
+  }
 
- // Add additional categories in similar manner...
 
   ]
 }
