@@ -1,32 +1,301 @@
-[
+{
+  "channels": [
+    // News categories
   {
     "title": "Aaj Tak",
-    "url": "https://www.youtube.com/watch?v=HqT7FdvH3mA",
+    "url": "https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8",
     "category": "news",
-    "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/aajtak_logo.png"
+    "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/aajtak.png"
   },
   {
     "title": "NDTV India",
-    "url": "https://www.youtube.com/watch?v=Wy4vMuc3nZs",
+    "url": "https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8",
     "category": "news",
-    "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/ndtv_logo.png"
+    "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/ndtv.png"
   },
   {
-    "title": "Republic Bharat",
-    "url": "https://www.youtube.com/watch?v=0T1qP4Y_6Dg",
+    "title": "First India News",
+    "url": "https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8",
     "category": "news",
-    "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/republic_logo.png"
+    "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/onenews.png"
   },
+  {
+    "title": "India Today",
+    "url": "https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8",
+    "category": "news",
+    "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/indiatoday.png"
+  },
+  {
+    "title": "News18 Live",
+    "url": "https://www.youtube.com/watch?v=Io-G_aiF8HA",
+    "category": "news",
+    "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/youtube_logo.png"
+  },
+  {
+    "title": "India TV Live",
+    "url": "https://www.youtube.com/watch?v=Xmm3Kr5P1Uw",
+    "category": "news",
+    "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/youtube_logo.png"
+  },
+  {
+    "title": "TV9 Bharatvarsh Live",
+    "url": "https://www.youtube.com/watch?v=rMy5NNRmnFI",
+    "category": "news",
+    "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/youtube_logo.png"
+  },
+  {
+    "title": "Republic TV Live",
+    "url": "https://www.youtube.com/watch?v=MR27upZpzpQ",
+    "category": "news",
+    "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/youtube_logo.png"
+  },
+  {
+    "title": "ABP News Live",
+    "url": "https://www.youtube.com/watch?v=nyd-xznCpJc",
+    "category": "news",
+    "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/youtube_logo.png"
+  },
+  {
+    "title": "Times Now Navbharat",
+    "url": "https://www.youtube.com/watch?v=cjQHUxUoIkA",
+    "category": "news",
+    "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/youtube_logo.png"
+  },
+    // Woman categories
   {
     "title": "Stitching1",
     "url": "https://www.youtube.com/watch?v=i4gkrJ_Xptg",
     "category": "woman",
-    "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/stitching_logo.png"
+    "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/youtube_logo.png"
   },
+  {
+    "title": "Stitching2",
+    "url": "https://www.youtube.com/watch?v=VSJTJFg5UeI",
+    "category": "woman",
+    "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/youtube_logo.png"
+  },
+  {
+    "title": "Stitching3",
+    "url": "https://www.youtube.com/watch?v=7WylDAYif_0",
+    "category": "woman",
+    "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/youtube_logo.png"
+  },
+  {
+    "title": "Stitching4",
+    "url": "https://www.youtube.com/watch?v=n4SUi4LVIO4",
+    "category": "woman",
+    "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/youtube_logo.png"
+  },
+// Kids categories
+   {
+    "title": "Kid1",
+    "url": "https://www.youtube.com/watch?v=A-CwoA0WdCw",
+    "category": "kids",
+    "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/kidsyoutube.png"
+  },  
+   {
+    "title": "Cartoon Channel",
+    "url": "https://somekidschannel.m3u8",
+    "category": "kids",
+    "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/kidsyoutube.png"
+  }, 
+   {
+    "title": "Kid2",
+    "url": "https://www.youtube.com/watch?v=wXMspwA4qiw",
+    "category": "kids",
+    "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/kidsyoutube.png"
+  }, 
+   {
+    "title": "Kids ABCD",
+    "url": "https://www.youtube.com/watch?v=MNC7iuLDSJU",
+    "category": "kids",
+    "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/kidsyoutube.png"
+  }, 
+   {
+    "title": "Kids Story1",
+    "url": "https://www.youtube.com/watch?v=lvNXiZBAWH8",
+    "category": "kids",
+    "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/kidsyoutube.png"
+  }, 
+   {
+    "title": "Kids Song1",
+    "url": "https://www.youtube.com/watch?v=gerqKETybdY",
+    "category": "kids",
+    "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/kidsyoutube.png"
+  }, 
+   {
+    "title": "Kids Song2",
+    "url": "https://www.youtube.com/watch?v=ig80WNtYjm0",
+    "category": "kids",
+    "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/kidsyoutube.png"
+  }, 
+   {
+    "title": "Kids Story2",
+    "url": "https://www.youtube.com/watch?v=r2IyyCQOmgw",
+    "category": "kids",
+    "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/kidsyoutube.png"
+  }, 
+   {
+    "title": "Kids Story3",
+    "url": "https://www.youtube.com/watch?v=NB-mxitvEsE",
+    "category": "kids",
+    "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/kidsyoutube.png"
+  }, 
+   {
+    "title": "Kids Story4",
+    "url": "https://www.youtube.com/watch?v=aMg52y2mkTc",
+    "category": "kids",
+    "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/kidsyoutube.png"
+  }, 
+   {
+    "title": "Jungle Book Season 3",
+    "url": "https://www.youtube.com/watch?v=q7TkndUc3yk",
+    "category": "kids",
+    "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/kidsyoutube.png"
+  }, 
+   {
+    "title": "Tom & Jerry",
+    "url": "https://www.youtube.com/watch?v=d_yFWUnIShE",
+    "category": "kids",
+    "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/kidsyoutube.png"
+  }, 
+   {
+    "title": "Jungle Book 1",
+    "url": "https://www.youtube.com/watch?v=iZ1whZ_eXeA",
+    "category": "kids",
+    "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/kidsyoutube.png"
+  }, 
+// entertainment categories
   {
     "title": "Golmal 3",
     "url": "https://www.youtube.com/watch?v=XaXKh-s9zws",
     "category": "entertainment",
-    "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/golmal_logo.png"
-  }
-]
+    "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/youtube_logo.png"
+  },
+ {
+    "title": "Welcome",
+    "url": "https://www.youtube.com/watch?v=AKiynoClCaA",
+    "category": "entertainment",
+    "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/youtube_logo.png"
+  },
+ {
+    "title": "Phir Hera Pheri",
+    "url": "https://www.youtube.com/watch?v=Us6pVG4NK8Q",
+    "category": "entertainment",
+    "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/youtube_logo.png"
+  },
+ {
+    "title": "Baahubali 1",
+    "url": "https://www.youtube.com/watch?v=tN7Uym8Bzjo",
+    "category": "entertainment",
+    "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/youtube_logo.png"
+  },
+ {
+    "title": "Baby",
+    "url": "https://www.youtube.com/watch?v=ZrkcXuVlf4U",
+    "category": "entertainment",
+  },
+    "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/youtube_logo.png"
+ {
+    "title": "Hera Pheri",
+    "url": "https://www.youtube.com/watch?v=TIQ5hrfermg",
+    "category": "entertainment",
+    "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/youtube_logo.png"
+  },
+ {
+    "title": "Bahubali-The Conclusion",
+    "url": "https://www.youtube.com/watch?v=h96ElVLTpAs",
+    "category": "entertainment",
+    "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/youtube_logo.png"
+  },
+ {
+    "title": "K.G.F",
+    "url": "https://www.youtube.com/watch?v=ULEQb_l-N08",
+    "category": "entertainment",
+    "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/youtube_logo.png"
+  },
+ {
+    "title": "Kapil Show 1",
+    "url": "https://www.youtube.com/watch?v=6Xo9lcmV9uE",
+    "category": "entertainment",
+    "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/youtube_logo.png"
+  },
+ {
+    "title": "Kapil Show 2",
+    "url": "https://www.youtube.com/watch?v=35HS5GIRXpY",
+    "category": "entertainment",
+    "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/youtube_logo.png"
+  },
+ {
+    "title": "Kapil Show 3",
+    "url": "https://www.youtube.com/watch?v=sm7GzeVrGeM",
+    "category": "entertainment",
+    "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/youtube_logo.png"
+  },
+ {
+    "title": "WWE 1",
+    "url": "https://www.youtube.com/watch?v=VNwvaYoFtM8",
+    "category": "entertainment",
+    "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/youtube_logo.png"
+  },
+     {
+    "title": "WWE 2",
+    "url": "https://www.youtube.com/watch?v=wWCaadq1woE",
+    "category": "entertainment",
+    "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/youtube_logo.png"
+  },
+// Music categories
+     {
+    "title": "Old is Gold",
+    "url": "https://www.youtube.com/watch?v=sCIiVN0zIGE",
+    "category": "music",
+    "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/youtube_logo.png"
+  },
+     {
+    "title": "Live Music1",
+    "url": "https://www.youtube.com/watch?v=FzNpLzVzBHY",
+    "category": "music",
+    "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/youtube_logo.png"
+  },
+     {
+    "title": "Live Punjabi",
+    "url": "https://www.youtube.com/watch?v=W4ikxkicbKQ",
+    "category": "music",
+    "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/youtube_logo.png"
+  },
+     {
+    "title": "90s hits",
+    "url": "https://www.youtube.com/watch?v=IvtDj2XNnOA",
+    "category": "music",
+    "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/youtube_logo.png"
+  },
+// Devotional categories
+{
+    "title": "Live Bhagti",
+    "url": "https://www.youtube.com/watch?v=mgJ7oZC8sqA",
+    "category": "devotional",
+    "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/youtube_logo.png"
+  },
+{
+    "title": "श्री हनुमान चालीसा",
+    "url": "https://www.youtube.com/watch?v=AETFvQonfV8",
+    "category": "devotional",
+    "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/youtube_logo.png"
+  },
+{
+    "title": "मेरी विनती यही है राधा रानी",
+    "url": "https://www.youtube.com/watch?v=S-Fucuw7NKs",
+    "category": "devotional",
+    "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/youtube_logo.png"
+  },
+{
+    "title": "मुझे रास आ गया है",
+    "url": "https://www.youtube.com/watch?v=e2uWSGI_8BU",
+    "category": "devotional",
+    "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/youtube_logo.png"
+  },
+
+ // Add additional categories in similar manner...
+
+  ]
+}
