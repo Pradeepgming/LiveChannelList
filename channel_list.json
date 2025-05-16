@@ -275,7 +275,12 @@
     "category": "music",
     "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/youtube_logo.png"
   },
-
+     {
+    "title": "Trending 1",
+    "url": "https://www.youtube.com/watch?v=43MwKFSkCjA",
+    "category": "music",
+    "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/youtube_logo.png"
+  },
 {
     "title": "Live Bhagti",
     "url": "https://www.youtube.com/watch?v=mgJ7oZC8sqA",
