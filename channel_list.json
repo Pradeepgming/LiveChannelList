@@ -165,7 +165,12 @@
     "category": "kids",
     "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/kidsyoutube.png"
   }, 
-
+   {
+    "title": "Cartoon 2",
+    "url": "https://www.youtube.com/watch?v=6Q3v7liZeeo",
+    "category": "kids",
+    "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/kidsyoutube.png"
+  }, 
   {
     "title": "Golmal 3",
     "url": "https://www.youtube.com/watch?v=XaXKh-s9zws",
