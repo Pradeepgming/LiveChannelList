@@ -286,6 +286,12 @@
     "category": "music",
     "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/youtube_logo.png"
   },
+             {
+    "title": "Jind Kad Ke (Remix)",
+    "url": "https://www.youtube.com/watch?v=uQ9No_lpfUs",
+    "category": "music",
+    "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/youtube_logo.png"
+  },
      {
     "title": "Trending 1",
     "url": "https://www.youtube.com/watch?v=43MwKFSkCjA",
@@ -325,6 +331,12 @@
     {
     "title": "Nonstop Bhakti Songs",
     "url": "https://www.youtube.com/watch?v=xCPJCDC-6ts",
+    "category": "devotional",
+    "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/youtube_logo.png"
+  },
+        {
+    "title": "Non Stop Radha Soami Shabad",
+    "url": "https://www.youtube.com/watch?v=SqGF5RohTTM",
     "category": "devotional",
     "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/youtube_logo.png"
   },
