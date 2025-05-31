@@ -264,13 +264,19 @@
   },
      {
     "title": "Live Punjabi",
-    "url": "https://www.youtube.com/watch?v=_8f7gMmEJBM",
+    "url": "https://www.youtube.com/watch?v=r7OdzA3iVnM",
     "category": "music",
     "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/youtube_logo.png"
   },
 {
     "title": "Punjabi Nonstop",
-    "url": "https://www.youtube.com/watch?v=r7OdzA3iVnM",
+    "url": "https://www.youtube.com/watch?v=uK4oTnLcIV4",
+    "category": "music",
+    "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/youtube_logo.png"
+  },
+    {
+    "title": "Punjabi Mashup",
+    "url": "https://www.youtube.com/watch?v=-2L-Bz-b-k0",
     "category": "music",
     "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/youtube_logo.png"
   },
@@ -313,6 +319,12 @@
         {
     "title": "Trending 4",
     "url": "https://www.youtube.com/watch?v=HoziMQm1M3o",
+    "category": "music",
+    "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/youtube_logo.png"
+  },
+        {
+    "title": "Trending 5",
+    "url": "https://www.youtube.com/watch?v=GUYg6TmOZmU",
     "category": "music",
     "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/youtube_logo.png"
   },
