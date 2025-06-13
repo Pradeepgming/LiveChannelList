@@ -365,13 +365,19 @@
   },
 {
     "title": "Live Bhagti",
-    "url": "https://www.youtube.com/watch?v=mgJ7oZC8sqA",
+    "url": "https://www.youtube.com/watch?v=TSDblHU8r30",
     "category": "devotional",
     "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/youtube_logo.png"
   },
 {
     "title": "श्री हनुमान चालीसा",
     "url": "https://www.youtube.com/watch?v=AETFvQonfV8",
+    "category": "devotional",
+    "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/youtube_logo.png"
+  },
+    {
+    "title": "श्री हनुमान चालीसा-2",
+    "url": "https://www.youtube.com/watch?v=aBSwyRtSLnc",
     "category": "devotional",
     "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/youtube_logo.png"
   },
