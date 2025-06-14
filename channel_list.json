@@ -61,7 +61,12 @@
     "category": "news",
     "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/youtube_logo.png"
   },
-
+  {
+    "title": "DD News",
+    "url": "https://www.youtube.com/watch?v=cSQ7egiOTaA",
+    "category": "news",
+    "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/youtube_logo.png"
+  },
   {
     "title": "Stitching1",
     "url": "https://www.youtube.com/watch?v=i4gkrJ_Xptg",
