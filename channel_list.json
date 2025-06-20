@@ -129,7 +129,7 @@
   },  
    {
     "title": "Cartoon Channel",
-    "url": "https://www.youtube.com/watch?v=2UOwO_N17ms",
+    "url": "https://www.youtube.com/watch?v=rEKifG2XUZg",
     "category": "kids",
     "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/kidsyoutube.png"
   }, 
@@ -205,6 +205,18 @@
     "category": "kids",
     "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/kidsyoutube.png"
   }, 
+       {
+    "title": "Mr. Bean",
+    "url": "https://www.youtube.com/watch?v=G64WD3eh5_k",
+    "category": "kids",
+    "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/kidsyoutube.png"
+  },
+           {
+    "title": "Hindi Cartoon",
+    "url": "https://www.youtube.com/watch?v=T_WThzrtwGM",
+    "category": "kids",
+    "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/kidsyoutube.png"
+  },
   {
     "title": "Golmal 3",
     "url": "https://www.youtube.com/watch?v=XaXKh-s9zws",
@@ -298,7 +310,7 @@
   },
      {
     "title": "Live Punjabi",
-    "url": "https://www.youtube.com/watch?v=_V2QJHtjgEI",
+    "url": "https://www.youtube.com/watch?v=6zKXjwFU_tU",
     "category": "music",
     "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/youtube_logo.png"
   },
@@ -371,6 +383,24 @@
      {
     "title": "Trending 7",
     "url": "https://www.youtube.com/watch?v=uweW2GruVFQ",
+    "category": "music",
+    "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/youtube_logo.png"
+  },
+         {
+    "title": "Trending 8",
+    "url": "https://www.youtube.com/watch?v=sUf2PtEZris",
+    "category": "music",
+    "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/youtube_logo.png"
+  },
+             {
+    "title": "Trending 9",
+    "url": "https://www.youtube.com/watch?v=rcPuG_PkAf8",
+    "category": "music",
+    "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/youtube_logo.png"
+  },
+                 {
+    "title": "Trending 10",
+    "url": "https://www.youtube.com/watch?v=8of5w7RgcTc",
     "category": "music",
     "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/youtube_logo.png"
   },
