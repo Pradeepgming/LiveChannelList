@@ -45,7 +45,7 @@
   },
   {
     "title": "Republic TV Live",
-    "url": "https://www.youtube.com/watch?v=MR27upZpzpQ",
+    "url": "https://www.youtube.com/watch?v=EKZ9o6kApH0",
     "category": "news",
     "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/youtube_logo.png"
   },
@@ -308,9 +308,21 @@
     "category": "music",
     "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/youtube_logo.png"
   },
+         {
+    "title": "Bollywood Hits",
+    "url": "https://www.youtube.com/watch?v=k3KTyqfV19Q",
+    "category": "music",
+    "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/youtube_logo.png"
+  },
      {
     "title": "Live Punjabi",
-    "url": "https://www.youtube.com/watch?v=6zKXjwFU_tU",
+    "url": "https://www.youtube.com/watch?v=C8KmckY1GyY",
+    "category": "music",
+    "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/youtube_logo.png"
+  },
+             {
+    "title": "100M Blockbusters",
+    "url": "https://www.youtube.com/watch?v=3cm8znDThOE&t=664s",
     "category": "music",
     "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/youtube_logo.png"
   },
