@@ -345,8 +345,14 @@
     "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/youtube_logo.png"
   },
      {
-    "title": "Live Punjabi",
-    "url": "https://www.youtube.com/watch?v=NAMy_1_hMm8",
+    "title": "Haryanvi Hits",
+    "url": "https://www.youtube.com/watch?v=2848QwvXjTc",
+    "category": "music",
+    "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/youtube_logo.png"
+  },
+         {
+    "title": "Nonstop Top Sad Songs",
+    "url": "https://www.youtube.com/watch?v=C6w075EfZHk",
     "category": "music",
     "logoUrl": "https://raw.githubusercontent.com/Pradeepgming/LiveChannelList/main/logos/youtube_logo.png"
   },
